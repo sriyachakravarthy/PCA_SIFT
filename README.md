@@ -1,2 +1,2 @@
-# AIP
-Few Mini Projects on Image Processing
+# PCA SIFT
+Implementation of PCA SIFT
